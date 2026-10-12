@@ -1,20 +1,22 @@
 ---
-title: "Voorbeeld guide"
-description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
+title: "Example Guide"
+description: "Learn how to structure clear, task-focused guides that walk users through real workflows step by step, improving documentation usability and success."
 summary: ""
 date: 2023-09-07T16:04:48+02:00
 lastmod: 2023-09-07T16:04:48+02:00
 draft: false
 weight: 810
 toc: true
-seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+params:
+  math: false # enable mathematical rendering
+  seo:
+    title: "" # custom title (optional)
+    description: "" # custom description (recommended)
+    canonical: "" # custom canonical URL (optional)
+    robots: "" # custom robot tags (optional)
 ---
 
-Guides leiden een gebruiker door een specifieke taak die hij wil uitvoeren, vaak met een reeks stappen. Als u een goede handleiding schrijft, moet u nadenken over wat uw gebruikers proberen te doen.
+Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.
 
 ## Further reading
 
